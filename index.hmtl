@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+
   <meta http-equiv="refresh" content="0; url=https://mezzxx.github.io/gslides_layer_panel_addon/">
   <meta name="google-site-verification" content="MlevmiRpYdbVhfVJSz1ZL7qiE5Spol3Ke2TGXeRURU0" />
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XVYW1YQ3ZZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XVYW1YQ3ZZ');
+</script>
 <body>
   <p>Redirecting to <a href="https://mezzxx.github.io/gslides_layer_panel_addon/">Layer Panel</a>...</p>
 </body>
