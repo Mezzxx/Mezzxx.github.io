@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta name="google-site-verification" content="MlevmiRpYdbVhfVJSz1ZL7qiE5Spol3Ke2TGXeRURU0" />
-  <meta http-equiv="refresh" content="0; url=https://mezzxx.github.io/gslides_layer_panel_addon/">
+ 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-XVYW1YQ3ZZ"></script>
 <script>
@@ -11,6 +11,7 @@
   gtag('js', new Date());
 
   gtag('config', 'G-XVYW1YQ3ZZ');
+setTimeout(function(){ window.location.href = 'https://mezzxx.github.io/gslides_layer_panel_addon/'; }, 1000);
 </script>
 </head>
 
